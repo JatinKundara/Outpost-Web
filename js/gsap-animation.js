@@ -20,7 +20,7 @@ if (screenWidth > 650) {
     
 gsap.to(".page2 .video-container", {
     // y:100
-    width:1215,
+    width:1200,
     // scale:0,
     scrollTrigger:{
         trigger:".page2 .video-container",
